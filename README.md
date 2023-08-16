@@ -21,8 +21,10 @@ Create a chatbot that can take natural language input from user and produce outp
 
         **Level-01 : Survey Response Meta Data (Auto-Generated)**\
             Example:- \
-            Total Number of Survey Participants, % of participants with complete responses,\
-            % of responses for each questions, Top 5 questions answered, Least 5 questions answered. \
+            - Total Number of Survey Participants,\
+            - % of participants with complete responses,\
+            - % of responses for each questions,\
+            - Top 5 questions answered, Least 5 questions answered. \
             This will help in setting up the context for analysing the response of the survey for business insights. 
 
         **Level-02 : Business Metrics (Quant & Qual) captured through data (Configurable/Manual)**\
