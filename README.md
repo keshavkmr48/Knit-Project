@@ -25,7 +25,7 @@ Create a chatbot that can take natural language input from user and produce outp
             % of responses for each questions, Top 5 questions answered, Least 5 questions answered,
             This will help in setting up the context for analysing the response of the survey for business insights. 
 
-        **Level-02 : Important Business Metrics (Quantitative & Qualitative) captured through data (Configurable/Manula)**\
+        **<font size=8>Level-02 : Important Business Metrics (Quantitative & Qualitative) captured through data (Configurable/Manual)</font>**\
         **Level-03 : Drilling Down, Investigation and Understanding Relationship (Manual)**
 
          
