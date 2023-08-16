@@ -20,11 +20,11 @@ Create a chatbot that can take natural language input from user and produce outp
     - End-User should be able to study survey data at multiple levels in Top-2-Down Approach. Few of the High Level Insights about data should come automatically once the data is uploaded.
 
         **Level-01 : Survey Response Meta Data (Auto-Generated)**\
-            Example:- \
-            - Total Number of Survey Participants,\
-            - % of participants with complete responses,\
-            - % of responses for each questions,\
-            - Top 5 questions answered, Least 5 questions answered. \
+            Example: \
+              - Total Number of Survey Participants,\
+              - % of participants with complete responses,\
+              - % of responses for each questions,\
+              - Top 5 questions answered, Least 5 questions answered. \
             This will help in setting up the context for analysing the response of the survey for business insights. 
 
         **Level-02 : Business Metrics (Quant & Qual) captured through data (Configurable/Manual)**\
