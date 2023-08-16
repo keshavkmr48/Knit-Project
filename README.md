@@ -17,7 +17,7 @@ Create a chatbot that can take natural language input from user and produce outp
 
 - User-Centric Approach: How well does your solution consider the needs of the end-users (market researchers)? How effectively does it provide them with meaningful insights into the data?
     #### Points 
-        -  End-User should be able to study survey data at multiple levels in Top-2-Down Approach. 
+        1. End-User should be able to study survey data at multiple levels in Top-2-Down Approach. 
            Few of the High Level Insights about data should come automatically once the data is uploaded.
            
            **Level -01 : Survey Response Meta Data**
@@ -27,7 +27,7 @@ Create a chatbot that can take natural language input from user and produce outp
 
 
            This will help in setting up the context for analysing the response of the survey for business insights. 
-        -  
+         
 
 - Functionality: Does the chatbot accurately respond to user queries and provide relevant statistics and charts?
 - Innovation: Is the approach creative, utilizing the recommended technologies in an effective manner?
