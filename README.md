@@ -20,14 +20,15 @@ Create a chatbot that can take natural language input from user and produce outp
     - End-User should be able to study survey data at multiple levels in Top-2-Down Approach. Few of the High Level Insights about data should come automatically once the data is uploaded.
 
         **Level-01 : Survey Response Meta Data (Auto-Generated)**\
-            Example:- 
-            Total Number of Survey Participants, % of participants with complete responses,
-            % of responses for each questions, Top 5 questions answered, Least 5 questions answered,
+            Example:- \
+            Total Number of Survey Participants, % of participants with complete responses,\
+            % of responses for each questions, Top 5 questions answered, Least 5 questions answered. \
             This will help in setting up the context for analysing the response of the survey for business insights. 
 
         **Level-02 : Business Metrics (Quant & Qual) captured through data (Configurable/Manual)**\
         **Level-03 : Drilling Down, Investigation and Understanding Relationship (Manual)**
-
+    - Results and Insights should be less verbose and more visual.
+    - All Queries and the Results (Entire Interaction) should be downloadable/transferable as PPT in Question-Answer Pair.
          
 
 - Functionality: Does the chatbot accurately respond to user queries and provide relevant statistics and charts?
