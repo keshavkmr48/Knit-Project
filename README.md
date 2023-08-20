@@ -25,12 +25,19 @@ Create a chatbot that can take natural language input from user and produce outp
             % of responses for each questions, Top 5 questions answered, Least 5 questions answered. \
             This will help in setting up the context for analysing the response of the survey for business insights. 
 
-        **Level-02 : Business Metrics (Quant & Qual) captured through data (Configurable/Manual)**\
+        **Level-02 : Business Metrics (Quant & Qual) captured through data (Configurable/Manual/Auto-Generated)**\
         **Level-03 : Drilling Down, Investigation and Understanding Relationship (Manual)**
     - Results and Insights should be less verbose and more visual.
     - All Queries and the Results (Entire Interaction) should be downloadable/transferable as PPT in Question-Answer Pair.
          
 
 - Functionality: Does the chatbot accurately respond to user queries and provide relevant statistics and charts?
+    #### Points
+    - If the data processing step done well, and column names of the final data frame have appropriate context, chatbot responds to the user query considerbaly well. 
 - Innovation: Is the approach creative, utilizing the recommended technologies in an effective manner?
+  #### Points
+  Yes, the recommended technology have been used judiciously, creatively and customized to the problem at hand.
 - Vision and Future Improvement: How well have you thought about the potential areas for improvement, scalability, and          alignment with long-term vision?
+  #### Points
+  - We need to automate the data processing part using multi-prompt, user defined fucntions as tools and router chain stacking multiple chains, each corresponding to individual question types - single choice, multi-choice, single -matrix and rank order.
+  - To convert it into a full blown application, we can configure this at user level in the application and then at dataset level for session and provide the llm with appropriate memory (mostly, conversation summary).
